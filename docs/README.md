@@ -31,12 +31,12 @@ The page you are currently viewing is `README.md` in the docs directory, with pa
 
 ## Menu
 
-Some info on how to make a site like this and how it works.
+Everything about Coss losses
 
-- [About](about.md)
-- [Features](features.md)
-- [Limitations](limitations.md)
-- [What about a Wiki?](wiki.md)
+- [What is Coss loss](about.md)
+- [Characterization Methods](methods.md)
+- [GaN devices](GaN.md)
+- [SiC devices](SiC.md)
 
 
 ## Source
